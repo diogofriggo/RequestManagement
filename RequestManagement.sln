@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Web
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RequestManagement", "RequestManagement\RequestManagement.vbproj", "{7C40043A-7F7F-4134-B77F-0BAD5F8CD930}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestManagement", "RequestManagement\RequestManagement.csproj", "{2AE6CDCF-D7DB-4013-ACDF-949C03C9C62A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C40043A-7F7F-4134-B77F-0BAD5F8CD930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C40043A-7F7F-4134-B77F-0BAD5F8CD930}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C40043A-7F7F-4134-B77F-0BAD5F8CD930}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C40043A-7F7F-4134-B77F-0BAD5F8CD930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE6CDCF-D7DB-4013-ACDF-949C03C9C62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE6CDCF-D7DB-4013-ACDF-949C03C9C62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE6CDCF-D7DB-4013-ACDF-949C03C9C62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE6CDCF-D7DB-4013-ACDF-949C03C9C62A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
