@@ -167,6 +167,11 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Data\Activity.cs" />
+    <Compile Include="Data\Result.cs" />
+    <Compile Include="Data\ResultStatus.cs" />
+    <Compile Include="Data\RequestStatus.cs" />
+    <Compile Include="Data\Technician.cs" />
     <Compile Include="Data\User.cs" />
     <Compile Include="Data\ServiceRequest.cs" />
     <Compile Include="Global.asax.cs">
