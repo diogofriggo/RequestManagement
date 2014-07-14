@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="RequestManagement.Data.Activity">
+    <Position X="4.25" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAgAAAACAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Data\Activity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RequestManagement.Data.ServiceRequest">
+    <Position X="4.75" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEEAAQAAgAAAAAAAQAAQIEAACgQAAAIAAAAACAAA=</HashCode>
+      <FileName>Data\ServiceRequest.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Solved" />
+      <Property Name="Technician" />
+      <Property Name="Requester" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="PlannedActivities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="RequestManagement.Data.Technician">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Technician.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RequestManagement.Data.User">
+    <Position X="1.25" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACABBAACAgAAAAAAAAIAQAEAAAAAAAAAAAYAAAAAA=</HashCode>
+      <FileName>Data\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="RequestManagement.Data.RequestStatus">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Data\RequestStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
