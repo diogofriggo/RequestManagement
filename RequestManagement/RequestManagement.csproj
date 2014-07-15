@@ -212,7 +212,8 @@
     <Content Include="Scripts\extjs\app\model\Readme.md" />
     <Content Include="Scripts\extjs\app\Readme.md" />
     <Content Include="Scripts\extjs\app\store\Readme.md" />
-    <Content Include="Scripts\extjs\bootstrap.json" />
+    <None Include="Scripts\extjs\bootstrap.json" />
+    <Content Include="Scripts\extjs\ext-all-debug.js" />
     <Content Include="Scripts\extjs\ext\.sencha\package\build.properties" />
     <Content Include="Scripts\extjs\ext\.sencha\package\codegen.json" />
     <Content Include="Scripts\extjs\ext\.sencha\package\defaults.properties" />
